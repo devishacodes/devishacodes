@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me devisha9304@gmail.com
-- 😄 Pronouns: she/her
+  
 
 
 <!---
